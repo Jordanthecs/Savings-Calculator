@@ -1,3 +1,3 @@
 # Savings Calculator
 
-Calculate your savings.
+Calculate your savings!
